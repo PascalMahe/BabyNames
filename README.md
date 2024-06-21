@@ -18,3 +18,6 @@ The goal is:
     Visualization 2: Is there a regional effect in the data? Are some names more popular in some regions? Are popular names generally popular across the whole country?
     Visualization 3: Are there gender effects in the data? Does popularity of names given to both sexes evolve consistently? (Note: this data set treats sex as binary; this is a simplification that carries into this assignment but does not generally hold.)
 "
+
+In order to run each visualisation, simply run the cells in the corresponding notebook. Once the graph is available you can interact with it.
+The graphs 1 and 3 both need to input a name in order to work, you can enter "jean" or "michel" for example.
