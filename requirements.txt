@@ -1,0 +1,4 @@
+streamlit
+vl-convert-python
+vegafusion
+vegafusion-python-embed
