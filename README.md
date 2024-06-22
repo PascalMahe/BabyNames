@@ -21,3 +21,4 @@ The goal is:
 
 In order to run each visualisation, simply run the cells in the corresponding notebook. Once the graph is available you can interact with it.
 The graphs 1 and 3 both need to input a name in order to work, you can enter "jean" or "michel" for example.
+For visualisation 1, input names in lowercase and separated by ";", "jean;luc;lucien" is an example.
